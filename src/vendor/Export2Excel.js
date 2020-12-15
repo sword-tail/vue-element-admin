@@ -1,4 +1,4 @@
-/* eslint-disable */
+/* eslint-disable *
 import { saveAs } from 'file-saver'
 import XLSX from 'xlsx'
 
